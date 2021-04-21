@@ -8,3 +8,4 @@ num5=500 zhangsan
 =======
 num4=40 manager
 >>>>>>> 003343d7d5bc1aa3376fb86d339f4c54265bf5fa
+num6=60 manager dev
